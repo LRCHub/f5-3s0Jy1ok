@@ -1,0 +1,280 @@
+{
+  "version": 1,
+  "base_track": "After The Rain",
+  "base_artist": "三浦大知",
+  "createdAt": "2026-03-26T08:58:10.421620Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "After the Rain",
+      "artist": "Little Dragon",
+      "has_synced": false,
+      "path": "select/01_After_the_Rain_Little_Dragon.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Europe After the Rain",
+      "artist": "John Foxx",
+      "has_synced": true,
+      "path": "select/02_Europe_After_the_Rain_John_Foxx.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Europe After the Rain (2018 - Remaster)",
+      "artist": "Kreator",
+      "has_synced": true,
+      "path": "select/03_Europe_After_the_Rain_(2018_-_Remaster)_Kreator.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Europe After the Rain (Remix)",
+      "artist": "Kreator",
+      "has_synced": false,
+      "path": "select/04_Europe_After_the_Rain_(Remix)_Kreator.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Europe After the Rain (Remix; 2018 - Remaster)",
+      "artist": "Kreator",
+      "has_synced": true,
+      "path": "select/05_Europe_After_the_Rain_(Remix;_2018_-_Remaster)_Kreator.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "After the Rain Has Fallen",
+      "artist": "Sting",
+      "has_synced": true,
+      "path": "select/06_After_the_Rain_Has_Fallen_Sting.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "After The Rain",
+      "artist": "Mya",
+      "has_synced": false,
+      "path": "select/07_After_The_Rain_Mya.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "After the Rain",
+      "artist": "Nickelback",
+      "has_synced": true,
+      "path": "select/08_After_the_Rain_Nickelback.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "After the Rain",
+      "artist": "Trouble",
+      "has_synced": false,
+      "path": "select/09_After_the_Rain_Trouble.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sure Got Cold After the Rain Fell",
+      "artist": "ZZ Top",
+      "has_synced": false,
+      "path": "select/10_Sure_Got_Cold_After_the_Rain_Fell_ZZ_Top.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "After the Rain",
+      "artist": "Magnum",
+      "has_synced": true,
+      "path": "select/11_After_the_Rain_Magnum.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "After The Rain",
+      "artist": "Neko Hacker feat. Such",
+      "has_synced": true,
+      "path": "select/12_After_The_Rain_Neko_Hacker_feat._Such.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sure Got Cold After The  Rain..",
+      "artist": "Zz Top",
+      "has_synced": true,
+      "path": "select/13_Sure_Got_Cold_After_The_Rain.._Zz_Top.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sure Got Cold After the Rain Fell",
+      "artist": "ZZ Top",
+      "has_synced": true,
+      "path": "select/14_Sure_Got_Cold_After_the_Rain_Fell_ZZ_Top.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "After the Rain",
+      "artist": "Blackfield",
+      "has_synced": false,
+      "path": "select/15_After_the_Rain_Blackfield.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "After The Rain",
+      "artist": "Nickelback",
+      "has_synced": true,
+      "path": "select/16_After_The_Rain_Nickelback.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "After the Afterparty (Alan Walker Remix)",
+      "artist": "Charli XCX feat. Lil Yachty",
+      "has_synced": true,
+      "path": "select/17_After_the_Afterparty_(Alan_Walker_Remix)_Charli_XCX_feat._Lil_Yachty.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "After the Afterparty (feat. Lil Yachty) (Alan Walker Remix)",
+      "artist": "Charli XCX;Lil Yachty",
+      "has_synced": true,
+      "path": "select/18_After_the_Afterparty_(feat._Lil_Yachty)_(Alan_Walker_Remix)_Charli_XCX;Lil_Yachty.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Chasing After You",
+      "artist": "Ryan Hurd",
+      "has_synced": true,
+      "path": "select/19_Chasing_After_You_Ryan_Hurd.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Forever After All",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/20_Forever_After_All_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Time After Time",
+      "artist": "Cyndi Lauper",
+      "has_synced": true,
+      "path": "select/21_Time_After_Time_Cyndi_Lauper.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "After A Few",
+      "artist": "Travis Denning",
+      "has_synced": true,
+      "path": "select/22_After_A_Few_Travis_Denning.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "After The Fire Is Gone",
+      "artist": "Conway Twitty feat. Loretta Lynn",
+      "has_synced": true,
+      "path": "select/23_After_The_Fire_Is_Gone_Conway_Twitty_feat._Loretta_Lynn.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "After The Fire Is Gone (Single Version)",
+      "artist": "Conway Twitty",
+      "has_synced": true,
+      "path": "select/24_After_The_Fire_Is_Gone_(Single_Version)_Conway_Twitty.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "After The Lights Go Out",
+      "artist": "Ricky Van Shelton",
+      "has_synced": true,
+      "path": "select/25_After_The_Lights_Go_Out_Ricky_Van_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "After The Lights Go Out (Album Version)",
+      "artist": "Ricky Van Shelton",
+      "has_synced": true,
+      "path": "select/26_After_The_Lights_Go_Out_(Album_Version)_Ricky_Van_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Drinks After Work",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/27_Drinks_After_Work_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Get After It",
+      "artist": "Clayton Anderson",
+      "has_synced": true,
+      "path": "select/28_Get_After_It_Clayton_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Is There Life After Love?",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/29_Is_There_Life_After_Love_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Walkin' After Midnight",
+      "artist": "Patsy Cline",
+      "has_synced": true,
+      "path": "select/30_Walkin'_After_Midnight_Patsy_Cline.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Walking After Midnight",
+      "artist": "Patsy Cline",
+      "has_synced": true,
+      "path": "select/31_Walking_After_Midnight_Patsy_Cline.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "After 17",
+      "artist": "陳綺貞",
+      "has_synced": true,
+      "path": "select/32_After_17_陳綺貞.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "After 17",
+      "artist": "陈绮贞",
+      "has_synced": true,
+      "path": "select/33_After_17_陈绮贞.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "After The Rain",
+      "artist": "三浦 大知",
+      "has_synced": false,
+      "path": "select/pl_01_After_The_Rain_三浦_大知.txt"
+    }
+  ]
+}
